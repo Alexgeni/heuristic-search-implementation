@@ -5,3 +5,7 @@
 3. Greedy best first search with matlab
 4. hillclimbing search with matlab
 5. uniform search with matlab
+
+
+####This reposity aims for datastructure and artifitial intelligent learners .
+##coded from zero by Mohamed Shaaban >> site >> alexgeni.github.io 
